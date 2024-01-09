@@ -4,7 +4,9 @@ This dataset contains a list of video games with sales greater than 100,000 copi
 
 sourceurl: https://www.kaggle.com/code/upadorprofzs/eda-video-game-sales
 
-I will clean the dataset and manipulate the data to get my goal of showcasing the top 30 selling North American Video Games for this time period
+I cleaned the dataset and manipulate the data to get my goal of showcasing the top 30 selling North American Video Games for this time period
+
+.ipynb file showcases each step of the process with documentation
 
 Tableau visual: https://public.tableau.com/app/profile/matt.shuff/viz/top25vgsalesinNA/Sheet1?publish=yes
 
