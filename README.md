@@ -7,3 +7,5 @@ sourceurl: https://www.kaggle.com/code/upadorprofzs/eda-video-game-sales
 I will clean the dataset and manipulate the data to get my goal of showcasing the top 30 selling North American Video Games for this time period
 
 Tableau visual: https://public.tableau.com/app/profile/matt.shuff/viz/top25vgsalesinNA/Sheet1?publish=yes
+
+![image](https://github.com/Matthewc53/Video_game_sales/assets/31051617/21ac3438-5752-4c5e-9130-7a14a569dbb4)
